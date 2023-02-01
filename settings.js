@@ -15,22 +15,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94761676948'] //ur owner number
-global.ownername = "𝗠𝗥.𝗔𝗥𝗢𝗦𝗛 🔐|:" //ur owner name
-global.ytname = "YT:𝗠𝗥.𝗔𝗥𝗢𝗦𝗛 |:" //ur yt chanel name
-global.socialm = "GitHub: 𝗠𝗥.𝗔𝗥𝗢𝗦𝗛 |:" //ur github or insta name
+global.ownername = "𝐢 𝐁𝐎𝐘 👿|:" //ur owner name
+global.ytname = "YT:𝐢 𝐁𝐎𝐘 👿 |:" //ur yt chanel name
+global.socialm = "GitHub: 𝐢 𝐁𝐎𝐘  |:" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
 global.ownernomer = "94761676948" //ur number
 global.premium = ['94761676948'] //ur premium number
-global.botname = '𝗔𝗥𝗢𝗦𝗛👿𝗕𝗢𝗧 |°' //ur bot name
+global.botname = '𝐢 𝐁𝐎𝐘 𝐁𝐎𝐓⃤👿|°' //ur bot name
 global.linkz = "https://chat.whatsapp.com/IT6mjqGINN6LaLSKnTZd6r" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By 𝗔𝗥𝗢𝗦𝗛👿𝗕𝗢𝗧 |°" //ur sticker watermark packname
-global.author = "𝗔𝗥𝗢𝗦𝗛👿𝗕𝗢𝗧 |°" //ur sticker watermark author
-global.wm = "𝗔𝗥𝗢𝗦𝗛👿𝗕𝗢𝗧 |°" //ur watermark
+global.packname = "Sticker By 𝐢 𝐁𝐎𝐘 𝐁𝐎𝐓⃤👿 |°" //ur sticker watermark packname
+global.author = "𝐢 𝐁𝐎𝐘 𝐁𝐎𝐓⃤👿 |°" //ur sticker watermark author
+global.wm = "𝐢 𝐁𝐎𝐘 𝐁𝐎𝐓⃤👿 |°" //ur watermark
 
 // Other
 global.sessionName = 'session'
